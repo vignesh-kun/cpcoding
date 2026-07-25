@@ -1,0 +1,11 @@
+---TMUX 101---
+Ctrl + B = prefix key to use any tmux operations
+---
+1.tmux
+2.tmux active-sessions
+3.tmux new-window
+---
+1.prefix + d = save and detach from window
+2.prefix + c = create new window/alternative method
+3.prefix + shift + % = right pane
+4.prefix + shift + " = down pane
